@@ -4,6 +4,11 @@
 по их настоящей форме, выравнивание, сложение одинаковых островов, плотность
 текселей, проверка развёртки и сценарии на Python.
 
+**Скачать:** [uv_ukladka-1.0.0.zip](https://github.com/volik1987/uv-ukladka/releases/latest/download/uv_ukladka-1.0.0.zip)
+(страница релизов — [Releases](https://github.com/volik1987/uv-ukladka/releases)).
+
+![Панель «Укладка» в UV-редакторе](img/ui.png)
+
 ## Установка
 
 1. Скачайте `uv_ukladka-1.0.0.zip` (или соберите: `./build.sh` → `dist/`).
