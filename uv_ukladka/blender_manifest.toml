@@ -1,0 +1,18 @@
+schema_version = "1.0.0"
+
+id = "uv_ukladka"
+version = "1.0.0"
+name = "UV Укладка — упаковка UV-островов"
+tagline = "Плотная упаковка UV, выравнивание, сложение копий, тексели"
+maintainer = "volik1987"
+type = "add-on"
+website = "https://github.com/volik1987/uv-ukladka"
+
+tags = ["UV"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+[build]
+paths_exclude_pattern = ["__pycache__/", "*.pyc", ".*"]
